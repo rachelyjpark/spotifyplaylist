@@ -1,0 +1,76 @@
+body {
+	background-image: url(imgs/cloud.jpeg);
+background-size: cover;
+	max-width: 2100px; overflow: hidden;
+}
+h1 {
+	font-family: Didot, serif;
+	color: #f5f3e7;
+	letter-spacing: 2px;
+	text-align: center;
+	z-index: 2;
+}
+
+iframe {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+top: 30px;
+
+
+
+}
+
+.whitewine {
+	position: relative;
+	top: 90px;
+	left: 720px;
+	z-index: 8;
+}
+.whitewine:hover {
+	position: relative;
+	transform: rotate(5deg);
+	cursor: pointer;
+
+}
+.winebottle {
+	position: relative;
+	top: -360px;
+	left: 550px;
+	z-index: 6;
+}
+.winebottle:hover {
+	position: relative;
+	transform: rotate(5deg);
+	cursor: pointer;
+	z-index: 6;
+}
+
+.table {
+	position: relative;
+	top: -550px;
+}
+.cheese {
+	z-index: 10;
+	position: relative;
+	top: -920px;
+	left: 200px;
+}
+.cheese:hover {
+	position: relative;
+	transform: rotate(5deg);
+	cursor: pointer;
+	z-index: 6;
+}
+.platter {
+	z-index: 10;
+	position: relative;
+	top: -1060px;
+	left: 900px;
+}
+.platter:hover {
+	position: relative;
+	transform: rotate(5deg);
+	cursor: pointer;
+	z-index: 6;
