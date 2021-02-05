@@ -24,8 +24,8 @@ top: 30px;
 
 .whitewine {
 	position: relative;
-	top: 90px;
-	left: 720px;
+	top: 50px;
+	left: 520px;
 	z-index: 8;
 }
 .whitewine:hover {
@@ -37,7 +37,7 @@ top: 30px;
 .winebottle {
 	position: relative;
 	top: -360px;
-	left: 550px;
+	left: 400px;
 	z-index: 6;
 }
 .winebottle:hover {
@@ -54,8 +54,8 @@ top: 30px;
 .cheese {
 	z-index: 10;
 	position: relative;
-	top: -920px;
-	left: 200px;
+	top: -870px;
+	left: 100px;
 }
 .cheese:hover {
 	position: relative;
@@ -66,8 +66,8 @@ top: 30px;
 .platter {
 	z-index: 10;
 	position: relative;
-	top: -1060px;
-	left: 900px;
+	top: -1080px;
+	left: 720px;
 }
 .platter:hover {
 	position: relative;
